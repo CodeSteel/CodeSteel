@@ -3,7 +3,7 @@
 
 [My Website](https://codesteel-io.vercel.app/)
 
-<img src="https://komarev.com/ghpvc/?username=codesteel" alt="priyanshumay" />
+<img src="https://komarev.com/ghpvc/?username=codesteel" alt="CodeSteel" />
 
 <img src="https://img.shields.io/github/followers/codesteel.svg?label=GitHub&style=social" alt="GitHub">
 
