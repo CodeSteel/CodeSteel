@@ -11,5 +11,3 @@
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=codesteel&show_icons=true&theme=tokyonight" alt="CodeSteel Profile Stats" /></p>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesteel&langs_count=10&theme=tokyonight" alt="CodeSteel Top Langs" /></p>
-
-<-- <p align="left"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=codesteel&range=last_7_days" alt="CodeSteel Week Stats" /></p> -->
