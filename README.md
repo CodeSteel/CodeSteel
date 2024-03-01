@@ -1,5 +1,5 @@
 ## Hey 👋 I'm Isaac, aka. [CodeSteel](https://www.codesteel.io/)
-### I am a completely self-taught Software Engineer with a passion for *learning* and *creating* new things. I have professional experience in Full Stack Web Development but Gameplay Development is where my true passion lies.
+### I am a self-taught Software Engineer with a passion for *learning* and *creating* new things. I have professional experience in Gameplay Development & Full Stack Web Development.
 
 
 <img src="https://komarev.com/ghpvc/?username=codesteel&style=for-the-badge&logo=github&color=blue" alt="CodeSteel" />
